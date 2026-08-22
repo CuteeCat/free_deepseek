@@ -9,7 +9,7 @@
 需要使用微信扫码登录deepseek网页账号     
      
 完整安装命令     
-``bash
+```bash
 git clone https://github.com/CuteeCat/free_deepseek.git
 cd free_deepseek
 g++ -O3 -fopenmp pow.cpp -o pow.exe
@@ -18,7 +18,7 @@ playwright install
 pip install requests
 python login.py
 python main.py -p "你好"
-``
+```
 
 # 原理     
      
