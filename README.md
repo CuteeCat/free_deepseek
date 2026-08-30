@@ -1,4 +1,4 @@
-# free_deepseek     
+# WEB 2 api    
 通过逆向deepseek网页模型调用逻辑将网页模型换为api     
      
 
